@@ -13,6 +13,7 @@ multi‑language support, and automatic reconnecting.
 ## 🚀 Features
 
 -   **Discord Rich Presence Integration**
+-   ![image](https://i.imgur.com/5sKIRNp.png)
     -   Shows currently played PS5/PS4 game
     -   Auto‑updates with game icons and names
 -   **Real‑time PS5 Monitoring**
